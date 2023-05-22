@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Pletka+Daniil;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Pletka+Daniil;+Welcome+to+My+Profile!;Always+learning+new+things)](https://git.io/typing-svg)
 <h3 align="center">Saint Petersburg State University Student</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PletkaDaniil&label=Profile"</p>
