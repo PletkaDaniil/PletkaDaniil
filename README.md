@@ -5,6 +5,8 @@
 
 <h3 align="left">📫To contact with me:</h3>
 <p align="left">
+[@loudiing](https://t.me/loudiing)
+[@me1kiii](https://vk.com/me1kiii)   
 <a href="https://t.me/loudiing" target="blank"><img align="center" alt="@loudiing" height="40" width="40" /></a>
 <a href="https://vk.com/me1kiii" target="blank"><img align="center" alt="@me1kiii" height="30" width="30" /></a>
 
@@ -18,4 +20,4 @@
 📈 GitHub Activity Graph:
 [![](https://github-readme-activity-graph.cyclic.app/graph?username=PletkaDaniil&theme=github-compact)](https://github.com/PletkaDaniil/github-readme-activity-graph)
 
-🐛🍁☔🐝🍃☁️🐜🍂❄️🌿⛄🐌🍄⚡🐙🌵🌀🐠🌴🌁🐟🌲🌊🌳🐱🐋🌰🐶🐬🌱🐭🌼🐹🐏🌾🐰🙈😹👺
+🐛🍁☔🐝🍃☁️🐜🍂❄️🌿⛄🐌🍄⚡🐙🌵🌀🐠🌴🌁🐟🐶🐬🌱🐭🌼🐹🐏🌾🐰🙈😹👺
