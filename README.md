@@ -4,19 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PletkaDaniil&label=Profile"</p>
 
 <h3 align="left">To contact with me:</h3>
-<h4 align="left">
-  Telegram: [https://t.me/loudiing][@loudiing]
-</h4>
-<h5 align="left">
-  VKontakte:![@me1kiii](https://vk.com/me1kiii)
-</h5>
+<p align="left">
+<a href="https://t.me/loudiing" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/172/54/png-transparent-telegram-encapsulated-postscript-transfer-blue-angle-triangle.png" alt="@loudiing" height="40" width="40" /></a>
+<a href="https://vk.com/me1kiii" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/323/697/png-transparent-computer-icons-social-media-vkontakte-local-ic-logo-social-media-desktop-wallpaper.png" alt="@me1kiii" height="30" width="30" /></a>
 
 <h6 align="left">Languages:</h6>
 <p align="left">
         <a href="https://isocpp.org" target="_blank" rel="noreferrer"> <img src="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/gioi-thieu-ngon-ngu-c/su-khac-biet-giua-c-c++-csharp/c++.png" alt="python" width="75" height="40"/> </a>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
                       
-<p align="left"> <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PletkaDaniil&theme=tokyonight"/></p></p>
+<p align="left"> <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PletkaDaniil&theme=tokyonight"/></p>
 
 📈 GitHub Activity Graph:
 [![](https://github-readme-activity-graph.cyclic.app/graph?username=PletkaDaniil&theme=github-compact)](https://github.com/PletkaDaniil/github-readme-activity-graph)
