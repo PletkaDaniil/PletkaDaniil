@@ -5,8 +5,8 @@
 
 <h3 align="left">📫To contact with me:</h3>
 <p align="left">
-<a href="https://t.me/loudiing" target="blank"><img align="center" src="file:///C:/Users/pletk/Downloads/logo-telegram.svg" alt="@loudiing" height="40" width="40" /></a>
-<a href="https://vk.com/me1kiii" target="blank"><img align="center" src="file:///C:/Users/pletk/Downloads/vk.svg" alt="@me1kiii" height="30" width="30" /></a>
+<a href="https://t.me/loudiing" target="blank"><img align="center" src="https://ru.wikipedia.org/wiki/Telegram#/media/Файл:Telegram_2019_Logo.svg" alt="@loudiing" height="40" width="40" /></a>
+<a href="https://vk.com/me1kiii" target="blank"><img align="center" src="https://ru.wikipedia.org/wiki/ВКонтакте#/media/Файл:VK_Full_Logo_(2021-present).svg" alt="@me1kiii" height="30" width="30" /></a>
 
 <h4 align="left">Languages:</h4>
 <p align="left">
@@ -14,6 +14,8 @@
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="50"/> </a> 
                       
 <p align="left"> <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PletkaDaniil&theme=tokyonight"/></p>
+
+![](https://github.com/PletkaDaniil/PletkaDaniil/blob/output/github-contribution-grid-snake.svg)
 
 📈 GitHub Activity Graph:
 [![](https://github-readme-activity-graph.cyclic.app/graph?username=PletkaDaniil&theme=github-compact)](https://github.com/PletkaDaniil/github-readme-activity-graph)
