@@ -5,10 +5,10 @@
 
 <h3 align="left">To contact with me:</h3>
 <h4 align="left">
-  Telegram:[@loudiing](https://t.me/loudiing)
+  Telegram:![@loudiing](https://t.me/loudiing)
 </h4>
 <h5 align="left">
-  VKontakte:[@me1kiii](https://vk.com/me1kiii)
+  VKontakte:![@me1kiii](https://vk.com/me1kiii)
 </h5>
 
 <h6 align="left">Languages:</h6>
