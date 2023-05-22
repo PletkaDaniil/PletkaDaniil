@@ -18,5 +18,7 @@
                       
 <p align="left"> <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PletkaDaniil&theme=tokyonight"/></p></p>
 
+📈 GitHub Activity Graph:
+[![](https://github-readme-activity-graph.cyclic.app/graph?username=PletkaDaniil&theme=github-compact)](https://github.com/PletkaDaniil/github-readme-activity-graph)
 
 🐛🍁☔🐝🍃☁️🐜🍂❄️🌿⛄🐌🍄⚡🐙🌵🌀🐠🌴🌁🐟🌲🌊🌳🐱🐋🌰🐶🐬🌱🐭🌼🐹🐏🌾🐰🙈😹👺
