@@ -5,15 +5,12 @@
 
 <h3 align="left">📫To contact with me:</h3>
 <p align="left">
-<a href="https://t.me/loudiing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="ajayaadhav" height="30" width="40" /></a>
+<a href="https://discord.gg/Melkii#0747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Melkii#0747" height="30" width="40" /></a>
 </p>
-
-[![@loudiing](https://t.me/loudiing)]
-[![@me1kiii](https://vk.com/me1kiii)]
 
 <h4 align="left">Languages:</h4>
 <p align="left">
-        <a href="https://isocpp.org" target="_blank" rel="noreferrer"> <img src="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/gioi-thieu-ngon-ngu-c/su-khac-biet-giua-c-c++-csharp/c++.png" alt="python" width="80" height="50"/> </a>
+        <p align="left"> <a href="https://isocpp.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="50"/> </a> 
                       
 <p align="left"> <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PletkaDaniil&theme=tokyonight"/></p>
