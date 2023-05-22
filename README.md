@@ -5,10 +5,10 @@
 
 <h3 align="left">To contact with me:</h3>
 <h4 align="left">
-  Telegram:[![@loudiing]([https://yandex.ru/images/search?rpt=simage&noreask=1&source=qa&text=Telegram&stype=image&lr=98546&parent-reqid=1684790464412918-6701421655795154823-balancer-l7leveler-kubr-yp-vla-154-BAL-9174))](https://t.me/loudiing)
+  Telegram:[@loudiing](https://t.me/loudiing)
 </h4>
 <h5 align="left">
-  VKontakte:[![me1kiii]([https://yandex.ru/images/search?rpt=simage&noreask=1&source=qa&text=ВКонтакте&stype=image&lr=98546&parent-reqid=1684790509555900-2320496077754307713-balancer-l7leveler-kubr-yp-vla-106-BAL-8146))](https://vk.com/me1kiii)
+  VKontakte:[@me1kiii](https://vk.com/me1kiii)
 </h5>
 
 <h6 align="left">Languages:</h6>
