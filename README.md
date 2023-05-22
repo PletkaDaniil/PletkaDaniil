@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Pletka+Daniil;+Welcome+to+My+Profile!;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Pletka+Daniil;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 <h3 align="center">Saint Petersburg State University Student</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PletkaDaniil&label=Profile"</p>
 
 <h3 align="left">📫To contact with me:</h3>
-![@loudiing](https://t.me/loudiing)
-![@me1kiii](https://vk.com/me1kiii)
+[![@loudiing](https://t.me/loudiing)]
+[![@me1kiii](https://vk.com/me1kiii)]
 
 <h4 align="left">Languages:</h4>
 <p align="left">
