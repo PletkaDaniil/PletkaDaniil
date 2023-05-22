@@ -4,6 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PletkaDaniil&label=Profile"</p>
 
 <h3 align="left">📫To contact with me:</h3>
+<p align="left">
+<a href="https://t.me/loudiing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="ajayaadhav" height="30" width="40" /></a>
+</p>
+
 [![@loudiing](https://t.me/loudiing)]
 [![@me1kiii](https://vk.com/me1kiii)]
 
@@ -16,5 +20,9 @@
 
 📈 GitHub Activity Graph:
 [![](https://github-readme-activity-graph.cyclic.app/graph?username=PletkaDaniil&theme=github-compact)](https://github.com/PletkaDaniil/github-readme-activity-graph)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PletkaDaniil&show_icons=true&locale=en&layout=compact" alt="ajayaadhav10" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PletkaDaniil&show_icons=true&locale=en" alt="ajayaadhav10" /></p>
 
 🐛🍁☔🐝🍃☁️🐜🍂❄️🌿⛄🐌🍄⚡🐙🌵🌀🐠🌴🌁🐟🐶🐬🌱🐭🌼🐹🐏🌾🐰🙈😹👺
