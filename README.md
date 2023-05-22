@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PletkaDaniil&label=Profile"</p>
 
 <h3 align="left">📫To contact with me:</h3>
-[@loudiing](https://t.me/loudiing)
+Telegram: @loudiing
 [@me1kiii](https://vk.com/me1kiii)
 
 <h4 align="left">Languages:</h4>
