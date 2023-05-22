@@ -5,8 +5,8 @@
 
 <h3 align="left">📫To contact with me:</h3>
 <p align="left">
-<a href="https://t.me/loudiing" target="blank"><img align="center" src="https://icons8.ru/icon/63306/телеграмма-app" alt="@loudiing" height="40" width="40" /></a>
-<a href="https://vk.com/me1kiii" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/323/697/png-transparent-computer-icons-social-media-vkontakte-local-ic-logo-social-media-desktop-wallpaper.png" alt="@me1kiii" height="30" width="30" /></a>
+<a href="https://t.me/loudiing" target="blank"><img align="center" src="file:///C:/Users/pletk/Downloads/logo-telegram.svg" alt="@loudiing" height="40" width="40" /></a>
+<a href="https://vk.com/me1kiii" target="blank"><img align="center" src="file:///C:/Users/pletk/Downloads/vk.svg" alt="@me1kiii" height="30" width="30" /></a>
 
 <h4 align="left">Languages:</h4>
 <p align="left">
