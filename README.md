@@ -6,12 +6,9 @@
 <h3 align="left">📫To contact with me:</h3>
 <p align="left">
         <a href="https://discord.gg/Melkii#0747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Melkii#0747" height="40" width="40" /></a>      
-        <a align="left"> <a href="https://t.me/loudiing" target="_blank" rel="noreferrer"> <img src="https://github.com/PletkaDaniil/PletkaDaniil/assets/90145262/6f7f55e8-9707-4519-854e-e64da0fbaa3f alt="cplusplus" width="40" height="40"/> </a> 
-        
-</p>
-
 Telegram: <a href="https://t.me/loudiing" target="blank">loudiing</a>
 VKontakte: <a href="https://vk.com/me1kiii" target="blank">me1kiii</a>
+</p>
 
 <h4 align="left">💻Languages:</h4>
 <p align="left">
