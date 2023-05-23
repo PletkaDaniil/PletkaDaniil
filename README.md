@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://discord.gg/Melkii#0747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Melkii#0747" height="30" width="40" /></a>
 
-<a href="https://t.me/loudiing" target="blank"><alt="@loudiing" height="30" width="40" /></a>
+<a href="https://t.me/loudiing" target="blank"><txt alt="@loudiing" /></a>
 </p>
 
 <h4 align="left">Languages:</h4>
