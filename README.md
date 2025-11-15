@@ -24,6 +24,4 @@ VKontakte: <a href="https://vk.com/me1kiii" target="blank">me1kiii</a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PletkaDaniil&show_icons=true&locale=en&layout=compact" alt="ajayaadhav10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PletkaDaniil&show_icons=true&locale=en" alt="ajayaadhav10" /></p>
-
 🐛🍁☔🐝☁️🍂❄️🌿⛄🐌🍄⚡🐙🌵🌀🐠🌴🌁🐟🐶🐬🌱🐭🌼🐹🐏🌾🐰🙈😹👺
