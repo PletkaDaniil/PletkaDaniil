@@ -18,9 +18,3 @@ VKontakte: <a href="https://vk.com/me1kiii" target="blank">me1kiii</a>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="50"/> </a> 
                       
 <p align="left"> <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PletkaDaniil&theme=tokyonight"/></p>
-
-📈 GitHub Activity Graph:
-[![](https://github-readme-activity-graph.cyclic.app/graph?username=PletkaDaniil&theme=github-compact)](https://github.com/PletkaDaniil/github-readme-activity-graph)
-
-
-🐛🍁☔🐝☁️🍂❄️🌿⛄🐌🍄⚡🐙🌵🌀🐠🌴🌁🐟🐶🐬🌱🐭🌼🐹🐏🌾🐰🙈😹👺
