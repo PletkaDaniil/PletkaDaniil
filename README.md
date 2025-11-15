@@ -22,6 +22,5 @@ VKontakte: <a href="https://vk.com/me1kiii" target="blank">me1kiii</a>
 📈 GitHub Activity Graph:
 [![](https://github-readme-activity-graph.cyclic.app/graph?username=PletkaDaniil&theme=github-compact)](https://github.com/PletkaDaniil/github-readme-activity-graph)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PletkaDaniil&show_icons=true&locale=en&layout=compact" alt="ajayaadhav10" /></p>
 
 🐛🍁☔🐝☁️🍂❄️🌿⛄🐌🍄⚡🐙🌵🌀🐠🌴🌁🐟🐶🐬🌱🐭🌼🐹🐏🌾🐰🙈😹👺
